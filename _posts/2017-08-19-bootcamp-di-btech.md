@@ -5,7 +5,7 @@ subtitle: Pengalaman Bootcamp di Btech
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/bootcamp.jpg
 share-img: /assets/img/path.jpg
-tags: [spirit]
+tags: [spirit, experience]
 ---
 
 ![bootcamp](https://1.bp.blogspot.com/-KY_KIrsALy4/WZecvuRXfhI/AAAAAAAAAd4/jCBQYGJE8Rsod9_C0zrfeXSNGHcCU0ZuQCEwYBhgL/s1600/bootcamp.jpg)

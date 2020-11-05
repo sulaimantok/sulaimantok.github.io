@@ -5,7 +5,7 @@ subtitle: kenangan Lama jadi speaker di peresmian mikrotik academy
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/ma.png
 share-img: /assets/img/path.jpg
-tags: [spirit]
+tags: [spirit, experience]
 ---
 
 ![Mikrotik](https://2.bp.blogspot.com/-9LUtysGukx4/WbD71jk-RSI/AAAAAAAAAgk/ZiqQkiWSn5gIcB4oKHB90zeiig-sIKi8gCLcBGAs/s1600/MikroTik-Academy-logo.jpg)
