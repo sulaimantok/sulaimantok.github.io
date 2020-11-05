@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What do you want to know about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Sulaiman, in English Solomon, I have an interest in technology. Especially cloud computing, System Administration, Network Engineer. But fate made me study computer engineering, where I learned a lot about, computer vision, robotics, emebededd systems, and electronics. I have the following qualities:
 
-- I rock a great mustache
+- my hobby is reading
 - I'm extremely loyal to my family
+- i like cycling
+- happy to learn new things
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a student and also a researcher, I am very happy in learning new things around me, even though I am a quiet person, I am a friendly person, and can mingle with the community. And I like to talk when I have been spoken to by remembering the time, and have a strong conversation even though sometimes I like to joke
