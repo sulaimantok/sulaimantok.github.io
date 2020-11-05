@@ -21,10 +21,12 @@ Akan ada acara peresmian Mikrotik Academy di Sekolah yang akan diresmikan oleh t
 
 </div>
 
+<div align="left">
 pesan dari admin
 #Never stop Study
 #Never stop ngoprek dan ngonfik
 #pantang pulang sebelum ping reply
+</div>
 
 Sekian dan berikut admin jantumkan foto dan file presentasi admin
 [Modul presentasi](https://goo.gl/oRJnRB)
