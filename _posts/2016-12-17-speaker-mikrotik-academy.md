@@ -3,7 +3,7 @@ layout: post
 title: Speaker di peresmian mikrotik academy
 subtitle: kenangan Lama jadi speaker di peresmian mikrotik academy
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/ma.png
 share-img: /assets/img/path.jpg
 tags: [spirit]
 ---
